@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Tablero
+comment0.text=\r\n\ tablero\ se\ dedicara\ a\ demostrar\ las\ fichas\ para\ el\ juego\ y\ ayudar\ para\ modificar\ el\ domino.\r\n\ Es\ exclusivo\ para\ doble\ 6...\r\n\ @author\ (ACR)\r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=Tablero()
+comment1.text=\r\n\ Constructor\ de\ Tablero\r\n
+comment2.params=domino
+comment2.target=Tablero(Domino)
+comment2.text=\r\n\ Constructor\ parametrizado\ para\ Tablero\r\n
+comment3.params=
+comment3.target=void\ mostrarDomino()
+comment3.text=\r\n\ metodo\ para\ mostrar\ el\ campo\ de\ juego\ (para\ doble\ 6)\r\n
+comment4.params=
+comment4.target=void\ voltearDomino()
+comment4.text=\r\n\ Metodo\ para\ voltear\ domino\r\n
+comment5.params=numeroDeFicha
+comment5.target=void\ sacarFicha(int)
+comment5.text=\r\n\ Para\ sacar\ la\ ficha\ establecida\r\n
+comment6.params=numeroDeFicha
+comment6.target=boolean\ estaFicha(int)
+comment6.text=\r\n\ Para\ determinar\ si\ una\ ficha\ sigue\ en\ el\ juego\r\n
+numComments=7

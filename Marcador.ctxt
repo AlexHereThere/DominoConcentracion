@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Marcador
+comment0.text=\r\n\ clase\ para\ modelar\ un\ marcador.\r\n\r\n\ @author\ (ACR)\r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=Marcador()
+comment2.params=ValorDeMarcadorInicial
+comment2.target=Marcador(int)
+comment3.params=
+comment3.target=int\ getValorDeMarcador()
+comment4.params=cuanto
+comment4.target=void\ incrementarMarcador(int)
+comment4.text=\r\n\ incrementar\ marcador\ segun\ el\ numero\ dado\r\n
+comment5.params=cuanto
+comment5.target=void\ decrementarMarcador(int)
+comment5.text=\r\n\ decrementar\ marcador\ segun\ el\ numero\ dado\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

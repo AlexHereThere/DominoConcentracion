@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=JuegoConcentracion
+comment0.text=\r\n\ Esta\ clase\ es\ para\ controlar\ todos\ los\ aspectos\ del\ juego\r\n\r\n\ @author\ (ACR)\r\n\ @version\ (1)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numeroDeJugadores
+comment2.target=JuegoConcentracion(int)
+comment3.params=
+comment3.target=void\ jugar()
+comment4.params=
+comment4.target=void\ mostrarPuntosDeJugadores()
+comment4.text=\r\n\ mostrar\ los\ puntajes\ de\ los\ jugadores\r\n
+comment5.params=NumeroDeJugador
+comment5.target=int\ seleccionDeFichaParaJuagdor(int)
+comment5.text=\r\n\ para\ la\ seleccion\ de\ la\ ficha\ a\ revelar\ segun\ las\r\n\ cordenadas\ que\ da\ el\ juagdor\r\n
+comment6.params=
+comment6.target=boolean\ esPosibleAcumular12()
+comment6.text=\r\n\ metodo\ para\ saber\ si\ es\ posible\ sacar\ la\ suma\ de\ 12\ con\ 2\ fichas\r\n
+comment7.params=
+comment7.target=int\ valorMaxDePuntos()
+comment7.text=\r\n\ determinar\ cual\ jugador\ tiene\ el\ puntaje\ mas\ alto\r\n
+comment8.params=
+comment8.target=void\ resultado()
+comment8.text=\r\n\ resutados\ del\ juego.\r\n
+numComments=9

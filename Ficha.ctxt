@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Ficha
+comment0.text=\r\n\ Para\ modelar\ cada\ ficha\ de\ domino\r\n\r\n\ @author\ (ACR)\r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=Ficha()
+comment2.params=lado1\ lado2
+comment2.target=Ficha(int,\ int)
+comment3.params=
+comment3.target=int\ getLado1()
+comment4.params=lado1
+comment4.target=void\ setLado1(int)
+comment5.params=
+comment5.target=int\ getLado2()
+comment6.params=lado2
+comment6.target=void\ setLado2(int)
+comment7.params=
+comment7.target=void\ voltear()
+comment8.params=
+comment8.target=boolean\ getEstaVolteado()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
