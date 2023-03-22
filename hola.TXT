@@ -4,9 +4,14 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Domino Concentracion
+PURPOSE OF PROJECT: Hacer un juego de concentracion domino que se puede jugar en consola
+VERSION or DATE: 1    (21/03/2023)
+HOW TO START THIS PROJECT: con codigo
+AUTHORS: Alejandro Castro Renteria
+USER INSTRUCTIONS: El juego se inicia solo (es de 2 jugadores) primero se selecciona la columna 
+y despues el renglon, se pide el numero de ubicacion de los 2 domino, si se suman 12 puntos 
+con el conjunto de dominos, gana 12 puntos el jugador y puede volver a elegir, si no acumulo los 12
+con la nueva seleccion pierde 2 puntos y el siguiente jugador elige, las mismas reglas se le 
+aplican a el y asi, hasta que ya no se puede acumular 12 puntos con ninguna combinacion de domino
+esto señala el fin del juego, al ultimo se presentan los resultados y el ganador o ganadores.
